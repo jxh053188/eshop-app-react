@@ -12,7 +12,7 @@ export default class Header extends Component {
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">
                             <Nav.Link href="/cart"><i className='fas fa-shopping-cart'></i> Cart</Nav.Link>
-                            <Nav.Link href="/login"><i class="fa-solid fa-user"></i> Sign In</Nav.Link>
+                            <Nav.Link href="/login"><i className="fa-solid fa-user"></i> Sign In</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
